@@ -1,0 +1,1 @@
+Simple web page as an exercise for freeCodeCamp curriculum.
